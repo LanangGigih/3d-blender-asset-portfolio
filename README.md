@@ -1,20 +1,24 @@
-# Blender 3D Asset – Learning Project
+# Blender 3D Asset – Learning Portfolio
 
-## Deskripsi
-Repository ini berisi kumpulan asset 3D yang dibuat menggunakan Blender 
-sebagai bagian dari proses pembelajaran 3D modeling dan texturing.
-Proyek ini dikerjakan dalam konteks pengembangan skill pribadi, termasuk
-selama program magang.
+## Overview
+This repository contains a collection of **3D assets created using Blender** as part of my learning process in 3D modeling and texturing.
 
-Total terdapat 55 asset dengan berbagai jenis objek sederhana.
+The assets were developed for **personal skill development**, including practice conducted during an **internship program**.  
+All work presented here is non-proprietary and intended solely for learning and portfolio purposes.
 
-## Konten
+In total, this repository includes **55 simple 3D assets** with various object types.
+
+---
+
+## What I Practiced
 - 3D Modeling
 - UV Mapping
-- Texturing & Material
+- Texturing & Material Setup
 
-## Preview
-Berikut beberapa contoh asset representatif dari keseluruhan koleksi:
+---
+
+## Asset Preview
+Below are selected assets that represent the overall collection:
 
 ![Asset 1](preview/asset_01.png)
 ![Asset 2](preview/asset_02.png)
@@ -26,13 +30,18 @@ Berikut beberapa contoh asset representatif dari keseluruhan koleksi:
 ![Asset 8](preview/asset_014.PNG)
 ![Asset 9](preview/asset_09.png)
 ![Asset 10](preview/asset_10.png)
-![Asset_11](preview/asset_11.png)
+![Asset 11](preview/asset_11.png)
 ![Asset 12](preview/asset_12.png)
 ![Asset 13](preview/asset_13.PNG)
+
+---
 
 ## Tools
 - Blender 3D
 
-## Catatan
-- Repository ini digunakan sebagai portofolio pembelajaran pribadi
-- Asset tidak ditujukan untuk penggunaan komersial
+---
+
+## Notes
+- This repository is intended for **learning and portfolio demonstration**
+- Assets are **not intended for commercial use**
+- No confidential or proprietary company data is included
